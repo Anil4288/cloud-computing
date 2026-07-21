@@ -1,6 +1,7 @@
 # Cloud EC2 Lab
 
 This repository contains a simple static webpage for an AWS EC2 hosting lab.
+https://github.com/Anil4288/cloud-computing/blob/5362a4abb499e6d1bc8260413e1a0ffef49e3c17/image/Screenshot%202026-07-21%20222049.png
 
 ## Steps to host on AWS EC2
 
