@@ -2,7 +2,7 @@
 
 This repository contains a simple static webpage for an AWS EC2 hosting lab.
 ![Hime page](https://github.com/Anil4288/cloud-computing/blob/5362a4abb499e6d1bc8260413e1a0ffef49e3c17/image/Screenshot%202026-07-21%20222049.png)
-
+![homepage](https://github.com/Anil4288/cloud-computing/blob/77a013800f330f71c128a3fe86c1d9118800930d/image/Screenshot%202026-07-21%20222144.png)
 ## Steps to host on AWS EC2
 
 1. Launch an Amazon Linux EC2 instance.
